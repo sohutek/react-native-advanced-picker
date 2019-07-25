@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sectioned-multi-select",
+  "name": "react-native-advanced-picker",
   "version": "0.7.0",
   "description": "a multi (or single) select component with support for sub categories, search, chips.",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renrizzolo/react-native-sectioned-multi-select.git"
+    "url": "git+https://github.com/sohutek/react-native-advanced-picker.git"
   },
   "keywords": [
     "select",
